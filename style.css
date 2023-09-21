@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #a30000;
+    background-color: #82d3ad;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -80,7 +80,7 @@ textarea {
 }
 
 input[type="submit"] {
-    background-color: #a30000;
+    background-color: #63cca0;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -94,7 +94,7 @@ input[type="submit"]:hover {
 
 /* Estilos para el footer */
 footer {
-    background-color: #a30000;
+    background-color: #60b18b;
     color: #fff;
     text-align: center;
     padding: 20px 0;
